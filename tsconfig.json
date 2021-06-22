@@ -1,4 +1,7 @@
 {
+  "files": [
+    "*.ts"
+  ],
   "compilerOptions": {},
   "extends": "expo/tsconfig.base"
 }
